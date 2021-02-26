@@ -41,3 +41,9 @@ Syntax:
 - Use for loop when number of iterations is known beforehand, i.e. the number of times the loop body is needed to be executed is known.
 - Use while loops where exact number of iterations is not known but the loop termination condition is known.
 - Use do while loop if the code needs to be executed at least once like in Menu driven programs
+
+for_each loop:
+https://www.geeksforgeeks.org/for_each-loop-c/
+
+Range-based for loop:
+https://www.geeksforgeeks.org/range-based-loop-c/
